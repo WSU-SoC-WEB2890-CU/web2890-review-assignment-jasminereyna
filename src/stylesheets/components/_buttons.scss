@@ -1,5 +1,5 @@
-@use '../custom'as *;
-@use '../components/mixins'as *;
+@use "../custom" as *;
+@use "../components/mixins" as *;
 
 .btn-rounded {
   position: relative;
@@ -25,15 +25,14 @@
       font-size: 1rem;
       line-height: 2.5rem;
     }
-
   }
 
   &:hover {
-    @include gradient;
-    color: $white;
+    //@include gradient;
+    color: $teal-light;
 
     span {
-      background-color: rgba($orange, 1.0);
+      background-color: rgba($orange, 1);
     }
   }
 }
