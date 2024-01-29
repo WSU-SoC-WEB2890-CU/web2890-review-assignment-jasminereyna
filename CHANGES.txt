@@ -17,7 +17,8 @@ Change 5: Font for headers - I wanted the font of the headers to not look too pl
 Change 6: Paragraph Font - For the paragraphs, I changed the font to "Bitter" because I felt like it complemented the "Montserrat"
 font that I used for the headers.
 
-Change 7:
+Change 7: Rounded button background color - I made the background color of the buttons a lighter shade of the purple so that it
+doesn't look too bright.
 
 Change 8:
 
