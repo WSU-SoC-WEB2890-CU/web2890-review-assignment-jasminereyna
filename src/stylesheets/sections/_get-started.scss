@@ -1,5 +1,5 @@
-@use '../custom'as *;
-@use '../components/mixins'as *;
+@use "../custom" as *;
+@use "../components/mixins" as *;
 
 .get-started {
   padding: 4rem 0;
@@ -28,7 +28,7 @@
   }
 }
 
-// FORM CONTENT 
+// FORM CONTENT
 .form {
   padding: 3rem;
 
@@ -43,4 +43,8 @@
       text-transform: capitalize;
     }
   }
+}
+
+.work_experience {
+  @include gradient;
 }
