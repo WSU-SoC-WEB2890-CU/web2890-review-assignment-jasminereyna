@@ -1,1 +1,26 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+
+Change 1: Logo Change - I wanted a logo that represented me better, so I found one that represents me well and whose color 
+scheme fits the website.
+
+Change 2: Hover Color for footer links - Since most of the text and icons in the footer are white, I needed to make the Hover
+color still noticable so I made it the lighter blue color.
+
+Change 3: Gradient effect on the Work Experience section - rather than keeping the background one solid color, I decided to use
+the gradient mixin for the background color as well to keep the theme consistent
+
+Change 4: Hover color for buttons -  I wanted to keep all the colors around the same 3 different shades, so I made the hover color
+for the buttons the lighter shade of blue.
+
+Change 5: Font for headers - I wanted the font of the headers to not look too plain, so I changed it to a font called "Montserrat".
+
+Change 6: Paragraph Font - For the paragraphs, I changed the font to "Bitter" because I felt like it complemented the "Montserrat"
+font that I used for the headers.
+
+Change 7:
+
+Change 8:
+
+Change 9:
+
+Change 10:

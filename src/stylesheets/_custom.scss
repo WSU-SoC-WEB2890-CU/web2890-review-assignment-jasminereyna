@@ -7,6 +7,20 @@ $footer: #4d3d6f;
 $primary: $teal-dark;
 $secondary: $teal-light;
 
+h1,
+h2,
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+}
+
+p {
+  font-family: "Bitter", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
 // ACCORDION OVERRIDES
 $accordion-padding-y: 1.5rem;
 $accordion-padding-x: 1.5rem;
